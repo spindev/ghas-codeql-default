@@ -1,6 +1,8 @@
 # ghas-codeql-examples
 
-This reposistory contains some example and custom CodeQL queries for c# and typescript.
+This reposistory contains some example and custom CodeQL queries for c# and typescript. 
+
+Test commit.
 
 # Resources
 
